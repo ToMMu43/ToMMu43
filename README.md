@@ -29,5 +29,11 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Пройти курс по Ansible на Slurm
+* [x] Пройти курс по Docker на Slurm
+* [x] Пройти курс по Kubernetes + вводный по Ceph на Slurm
+* [x] Пройти курс по Gitlab CI на Slurm
+* [x] Пройти курс по Мониторингу Kubernetes (Prometheus, ELK-stack, PLG-stack) на Slurm
+* [x] Пройти курс по Terraform на Slurm
+* [x] Запилить финальные проекты на Github       
 <!-- TODO-IST:END -->

@@ -17,7 +17,7 @@
   
 **Languages and Tools:** 
 
-![My Skills](https://skillicons.dev/icons?i=linux,bash,ansible,terraform)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,windows,powershell,ansible,terraform)
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gitlab)
 ![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch)
 ![My Skills](https://skillicons.dev/icons?i=nginx,postgres)

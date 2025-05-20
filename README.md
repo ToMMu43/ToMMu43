@@ -21,11 +21,12 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,bash,windows,powershell,ansible,terraform)
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gitlab)
 ![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch)
-![My Skills](https://skillicons.dev/icons?i=nginx,postgres)
+![My Skills](https://skillicons.dev/icons?i=nginx,postgres,python)
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [ ] Пройти миникурс по Python/DevOps/LLM (Slurm)
+* [X] Пройти курс по Python для ops-инженеров (Slurm)
+* [ ] Пройти курс по репликации, бэкапированию и мониторингу PostgreSQL (Slurm)
 * [ ] Пройти миникурс по Grafana (Rebrain)
 * [ ] Пройти миникурс по Logs (Rebrain)
 * [ ] Пройти миникурс по RabbitMQ (Rebrain)   

@@ -27,6 +27,7 @@
 <!-- TODO-IST:START -->
 * [X] Пройти курс "Python для ops-инженеров" (Slurm)
 * [X] Пройти интенсив "DevSecOps Bootcamp: безопасность без отрыва от продакшена" (Slurm, PT Security, Kaspersky)
+* [ ] Пройти курс "SRE: data-driven подход к управлению надежностью систем" (Slurm)
 * [ ] Пройти курс по репликации, бэкапированию и мониторингу PostgreSQL (Slurm)
 * [ ] Пройти миникурс по Grafana (Rebrain)
 * [ ] Пройти миникурс по Logs (Rebrain)
